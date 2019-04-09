@@ -1,0 +1,1 @@
+k:: Send {Down}{Home}{Backspace}{Space}

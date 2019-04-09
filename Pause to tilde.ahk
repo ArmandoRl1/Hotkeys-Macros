@@ -1,0 +1,1 @@
+vkDB::Send, {ALTDOWN}{Numpad1}{Numpad6}{Numpad0}{ALTUP}á
